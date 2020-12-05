@@ -1,0 +1,58 @@
+/* DEVELOPER: Andrew Gonzalez, IS-117-005, Fall 2020 */
+/*body {
+    font-family: Arial, sans-serif;
+    font-size: 100%;
+}*/
+.container-fluid{
+    color: white;
+}
+
+.carousel{
+    /*padding-bottom: 38px;*/
+}
+
+.btn {
+    float: right;
+}
+.btn-margin-left {
+    margin-left: 20px;
+}
+
+.form-group {
+    padding-top: 5px;
+}
+
+.card-deck {
+    padding-bottom: 40px;
+}
+
+.card {
+    margin: 20px;
+}
+
+.card-img-top {
+    width: 300px;
+    height: 300px;
+}
+
+#h4_contact {
+    padding-top: 10px;
+}
+#firstname, #lastname, #email {
+    width: 30%;
+}
+#btn-contact {
+    margin-bottom: 60px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.75rem;
+}
