@@ -1,8 +1,5 @@
 /* DEVELOPER: Andrew Gonzalez, IS-117-005, Fall 2020 */
-/*body {
-    font-family: Arial, sans-serif;
-    font-size: 100%;
-}*/
+
 .container-fluid{
     color: white;
 }
@@ -33,6 +30,17 @@
 .card-img-top {
     width: 300px;
     height: 300px;
+}
+
+.review-art {
+    width: 100%;
+}
+main h1 {
+    text-align: center;
+}
+main h5 {
+    text-align: center;
+    padding-bottom: 20px;
 }
 
 #h4_contact {
